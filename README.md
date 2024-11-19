@@ -18,5 +18,6 @@
 
 ## 🌐 Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/herick-verissimo/)
-- [E-mail](mailto:h236664@dac.unicamp.br)
+- 📧 h236664@dac.unicamp.br
+
 ---
