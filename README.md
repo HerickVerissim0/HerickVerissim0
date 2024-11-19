@@ -12,12 +12,11 @@
 ---
 
 ## 🚀 Projeto em Destaque
-🌟 [Medical Emergency](https://github.com/HerickVerissim0/Medical-Emergency): vMedical Emergency é um aplicativo móvel desenvolvido em Flutter que oferece suporte e orientação em situações de emergência médica.
+🌟 [Medical Emergency](https://github.com/HerickVerissim0/Medical-Emergency): Medical Emergency é um aplicativo móvel desenvolvido em Flutter que oferece suporte e orientação em situações de emergência médica.
 
 ---
 
 ## 🌐 Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/herick-verissimo/)
-- [E-mail](herickverissimo9@gmail.com)
-
+- [E-mail](mailto:h236664@dac.unicamp.br)
 ---
