@@ -1,6 +1,6 @@
 # 👋 Olá, sou **Herick Veríssimo**!
 
-🎓 **Estudante no 4º ano**  
+🎯 **Software Developer**  
 💻 Apaixonado por tecnologia, desenvolvimento de sistemas e aprendizado contínuo!  
 
 ---
@@ -21,3 +21,8 @@
 - 📧 h236664@dac.unicamp.br
 
 ---
+
+## ⚙️ Habilidades
+- **Desenvolvimento Mobile:** Aplicativos com Flutter e integração com Firebase.  
+- **Sistemas e Algoritmos:** Estruturas de dados e otimização em C++.  
+- **Controle de Versionamento:** Experiência prática com Git e GitHub.
