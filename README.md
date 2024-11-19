@@ -6,21 +6,18 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: Dart, C++,Java.
-- **Ferramentas**: Visual Studio, Android Studio, Firebase, Git, Gradle.
+- **Linguagens**: Dart, C++, Java.
+- **Ferramentas**: Visual Studio, Android Studio, Firebase, Git, Gradle e etc..
 
 ---
 
-## 🚀 Projeto em Destaque
-🌟 [Medical-Emergency]([link_projeto](https://github.com/HerickVerissim0/Medical-Emergency)):Medical Emergency é um aplicativo móvel desenvolvido em Flutter que oferece suporte e orientação em situações de emergência médica.  
-
----
-
-## 📊 Estatísticas do GitHub
-![Herick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerickVerissim0&show_icons=true&theme=radical)
+## 🚀 Projetos em Destaque
+🌟 [Medical Emergency](https://github.com/HerickVerissim0/Medical-Emergency): Breve descrição do projeto.  
 
 ---
 
 ## 🌐 Conecte-se Comigo
-- [LinkedIn](https://www.linkedin.com/in/herick-verissimo/)
-- [E-mail](mailto:h236664@dac.ucanicamp.br)
+- [LinkedIn]([seulinkedin](https://www.linkedin.com/in/herick-verissimo/).
+- [E-mail](mailto:herickverissimo9@gmail.com)
+
+---
