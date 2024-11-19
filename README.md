@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 Conecte-se Comigo
-- [LinkedIn](https://www.linkedin.com/in/herick-verissimo/).
-- [E-mail](mailto:herickverissimo9@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/herick-verissimo/)
+- [E-mail](herickverissimo9@gmail.com)
 
 ---
