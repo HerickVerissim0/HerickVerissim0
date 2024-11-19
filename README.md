@@ -24,5 +24,5 @@
 
 ## ⚙️ Habilidades
 - **Desenvolvimento Mobile:** Aplicativos com Flutter e integração com Firebase.  
-- **Sistemas e Algoritmos:** Estruturas de dados e otimização em C++.  
+- **Sistemas e Algoritmos:** Estruturas de dados e otimização em C++ e Java.
 - **Controle de Versionamento:** Experiência prática com Git e GitHub.
