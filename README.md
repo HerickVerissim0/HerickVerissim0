@@ -7,7 +7,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: Dart, C++, Java.
-- **Ferramentas**: Visual Studio, Android Studio, Firebase, Git, Gradle e Etc..
+- **Ferramentas**: Visual Studio, Android Studio, Firebase, Git, Gradle, jira.
 
 ---
 
