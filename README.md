@@ -1,7 +1,7 @@
 # 👋 Olá, sou **Herick Veríssimo**!
 
 🎯 **Software Developer**  
-💻 Apaixonado por tecnologia, desenvolvimento de sistemas e aprendizado contínuo!  
+💻 Apaixonado por tecnologia e as soluções práticas que ela proporciona. Sempre em busca de inovação e aprendizado!
 
 ---
 
