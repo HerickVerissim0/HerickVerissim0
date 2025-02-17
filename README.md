@@ -3,7 +3,7 @@
 💻 Apaixonado por tecnologia, inovação e soluções que fazem a diferença!
 
 ### 📚 Sobre Mim  
-Sou desenvolvedor com experiência em **Flutter**, **Java**, **Node.js**, **Firebase** e **MySQL**. Crio soluções inovadoras, principalmente para plataformas móveis, buscando sempre a melhor experiência para o usuário. Atualmente, estou explorando novos desafios na área de backend e aprendizado de novas tecnologias.
+Sou desenvolvedor com experiência em **Flutter**, **Java**, **Firebase** e **MySQL**. Crio soluções inovadoras, principalmente para plataformas móveis, buscando sempre a melhor experiência para o usuário. Atualmente, estou explorando novos desafios na área de backend e aprendizado de novas tecnologias.
 
 ---
 
