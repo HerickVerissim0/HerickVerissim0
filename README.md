@@ -4,8 +4,6 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
-
 ### Mobile Development
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
@@ -29,26 +27,17 @@
 ### 🌟 [Medical Emergency](https://github.com/HerickVerissim0/Medical-Emergency)
 Aplicativo móvel desenvolvido em **Flutter** para oferecer suporte e orientação em situações de emergência médica.  
 
-🔹 **Tecnologias:** Flutter, Dart, Firebase  
-🔹 **Destaques:** Interface intuitiva, integração com Firebase para armazenamento de dados e sistema de notificações.  
-
-### 🌟 [Outro Projeto](https://github.com/HerickVerissim0/Outro-Projeto)
-Descrição breve do projeto.  
-
-🔹 **Tecnologias:** Java, Spring Boot, MySQL  
-🔹 **Destaques:** API RESTful, autenticação JWT, deploy no Heroku.
+🔹 **Tecnologias:** Flutter, Dart, Firebase
+🔹 **Destaques:** API RESTful, Interface intuitiva, integração com Firebase para armazenamento de dados e sistema de notificações.  
 
 ---
 
 ## 📊 Estatísticas do GitHub  
 ![Herick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerickVerissim0&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerickVerissim0&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerickVerissim0&theme=dark)
 
 ---
 
 ## 🌐 Conecte-se Comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Herick_Verissimo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/herick-verissimo/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Herick_Verissimo-blue?style=for-the-badge&logo=twitter)](https://twitter.com/seu_twitter)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Herick_Verissimo-green?style=for-the-badge&logo=google-chrome)](https://seuportfolio.com)  
 📧 **Email:** h236664@dac.unicamp.br  
