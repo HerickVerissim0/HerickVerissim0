@@ -21,12 +21,7 @@
 Aplicativo móvel desenvolvido em **Flutter** para oferecer suporte e orientação em situações de emergência médica.  
 
 🔹 **Tecnologias:** Flutter, Dart, Firebase  
-🔹 **Destaques:** UI intuitiva, suporte a geolocalização, integração com banco de dados em tempo real.  
-
----
-
-### 📱 [Outro Projeto Legal](https://github.com/HerickVerissim0/Outro-Projeto)
-Breve descrição do projeto e suas funcionalidades.
+🔹 **Destaques:** Interface intuitiva, integração com Firebase para armazenamento de dados e sistema de notificações.  
 
 ---
 
